@@ -1,5 +1,5 @@
 GO := go
-ROOT_PACKAGE := github.com/marmotedu/addlicense
+ROOT_PACKAGE := github.com/coding-hui/addlicense
 ifeq ($(origin ROOT_DIR),undefined)
 ROOT_DIR := $(shell pwd)
 endif

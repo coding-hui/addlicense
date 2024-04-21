@@ -1,4 +1,4 @@
-# Copyright 2020 Lingfei Kong <colin404@foxmail.com>. All rights reserved.
+# Copyright (c) 2024 coding-hui. All rights reserved.
 # Use of this source code is governed by a MIT style
 # license that can be found in the LICENSE file.
 
@@ -295,8 +295,8 @@ linters-settings:
       modules:
         - github.com/pkg/errors:
             recommendations:
-              - github.com/marmotedu/errors
-            reason: "`github.com/marmotedu/errors` is the log package used by marmotedu projects."
+              - github.com/coding-hui/errors
+            reason: "`github.com/coding-hui/errors` is the log package used by coding-hui projects."
       versions:
         - github.com/MakeNowJust/heredoc:
             version: "> 2.0.9"

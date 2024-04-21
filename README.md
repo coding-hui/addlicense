@@ -4,7 +4,7 @@
 ## 安装
 
 ```bash
-$ go get -u github.com/marmotedu/addlicense
+$ go get -u github.com/coding-hui/addlicense
 ```
 
 帮助信息为：
